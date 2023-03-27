@@ -12,3 +12,16 @@
 - puts merge_strings("abc", "def")       #=> "abcdef"
 - puts merge_strings("abc", "abc")       #=> "abc"
 - puts merge_strings("abaabaab", "aabaabab") #=> "abaabaabab"
+
+
+# CamelCase Method(Toy Problem)
+- Write simple .camelCase method for strings. All words must have their first letter capitalized without spaces.
+
+- For instance:
+
+- 'hello case'.camelcase => HelloCase
+
+- 'camel case word'.camelcase => CamelCaseWord
+
+
+- Find this toyproblem on codewarsLinks to an external site.
